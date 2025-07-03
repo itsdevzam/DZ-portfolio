@@ -19,11 +19,11 @@ A modern, responsive, and dark-themed personal portfolio built using **Flutter W
 
 ## 🖼 Website Preview
 
-| Home Page | Projects |
+| Desktop | Tablet |
 |-----------|----------|
 | ![Home](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/2.png) | ![Projects](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/3.png) |
 
-| Skills | Contact |
+| Mobile | Mobile |
 |--------|---------|
 | ![Skills](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/4.png) | ![Contact](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/5.png) |
 
