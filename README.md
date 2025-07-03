@@ -1,16 +1,74 @@
-# portfolio
+# 💼 DZ Portfolio - Flutter Web Portfolio
 
-A new Flutter project.
+![Banner](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/1.png)
 
-## Getting Started
+A modern, responsive, and dark-themed personal portfolio built using **Flutter Web**. It reflects today’s developer vibe with interactive UI, elegant design, and mobile responsiveness.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 💡 Fully Responsive Layout (Mobile, Tablet, Desktop)
+- 🌓 Dark Mode Switch
+- 🧑‍💻 Developer Introduction with Role & Stack
+- 📂 Recent Projects with Carousel View
+- 💬 Social Media Integration
+- 📥 Download CV Button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼 Website Preview
+
+| Home Page | Projects |
+|-----------|----------|
+| ![Home](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/2.png) | ![Projects](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/3.png) |
+
+| Skills | Contact |
+|--------|---------|
+| ![Skills](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/4.png) | ![Contact](https://github.com/itsdevzam/DZ-portfolio/blob/main/assets/gitImg/5.png) |
+
+---
+
+## 🧑‍💻 About Me
+
+**Senior Full Stack {Web & App} Developer**  
+Skilled in **Java**, **Flutter**, **Android Studio**, and **Firebase**. I create fast, modern, and scalable applications that are both visually appealing and functionally powerful.
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter Web**
+- **Dart**
+- **Firebase**
+- **GitHub Pages / Hosting**
+- **Responsive Design**
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+git clone https://github.com/itsdevzam/DZ-portfolio.git
+cd DZ-portfolio
+flutter pub get
+flutter run -d chrome
+```
+
+## 🔗 Connect With Me
+
+- 🌐 [Website](https://devzam.com)  
+- 🐙 [GitHub](https://github.com/itsdevzam)  
+- 💼 [LinkedIn](https://linkedin.com/in/devzam)  
+- 📷 [Instagram](https://instagram.com/)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+> Made with ❤️ by [itsdevzam](https://github.com/itsdevzam)
+
